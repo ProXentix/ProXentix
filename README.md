@@ -2,7 +2,7 @@
 <h3 align="center">Build the Future eith ProXentix</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProX-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ProXentix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ProX-Tech&theme=algolia&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ProXentix&theme=algolia&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 
 - 🔭 We are currently developing **ProX** – A Next-Gen Programming Language.  
 - 🌱 Focused on **Innovative Software Development** & **Open-Source Projects**.  
-- 👨‍💻 Explore our projects: [prox-tech.github.io/portfolio](https://prox-tech.github.io/portfolio)  
+- 👨‍💻 Explore our projects: [ProgrammerKR.github.io/portfolio](https://ProgrammerKR.github.io/portfolio)  
 - 💬 Contact us for **Collaborations**, **Software Development**, and **AI Research**.  
-- 📫 Email us: **contact@prox-tech.org**
+- 📫 Email us: **programmerkr.123@gmail.com**
 
 ---
 
@@ -48,7 +48,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProX-Tech&theme=default" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProXentix&theme=default" alt="Profile Details" />
 </p>
 
 ---
@@ -56,13 +56,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProX-Tech&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProXentix&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProX-Tech" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProXentix" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProX-Tech&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProXentix&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
