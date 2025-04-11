@@ -7,16 +7,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ProXentix&theme=algolia&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 🚀 About Us
 
 - 🔭 We are currently developing **ProX** – A Next-Gen Programming Language.  
