@@ -20,7 +20,7 @@
 ### 🌐 Connect with Us
 
 <p align="center">
-  <a href="https://www.youtube.com/c/prox-tech" target="_blank">
+  <a href="https://www.youtube.com/@ProgrammerKR.123" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
