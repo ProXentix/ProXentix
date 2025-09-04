@@ -1,58 +1,65 @@
-<h1 align="center">Welcome to ProXentix Organization</h1>
-<h3 align="center">Build the Future eith ProXentix</h3>
+<h1 align="center">🌐 Welcome to ProXentix Organization</h1>
+<h3 align="center">🚀 Building the Future of Digital India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProXentix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <b>We build next-generation open-source tools, frameworks, and libraries for developers, creators, and entrepreneurs.</b>
 </p>
 
 ---
 
-### 🚀 About Us
+<h2 align="center">🏗️ Our Ecosystem</h2>
 
-- 🔭 We are currently developing **ProX** – A Next-Gen Programming Language.  
-- 🌱 Focused on **Innovative Software Development** & **Open-Source Projects**.  
-- 👨‍💻 Explore our projects: [ProgrammerKR.github.io/portfolio](https://ProgrammerKR.github.io/portfolio)  
-- 💬 Contact us for **Collaborations**, **Software Development**, and **AI Research**.  
-- 📫 Email us: **programmerkr.123@gmail.com**
+### 🔹 Frameworks
+- **ProXonic** → Full-stack web development framework  
+- **ProXApp** → Mobile app development framework  
+- **ProGameX** → Game development framework  
 
----
+### 🔹 Libraries
+- **ProXJS** → High-level JavaScript framework  
+- **ProXtyle** → CSS framework for modern UI  
+- **ProXIcons** → Icon library with 2000+ icons  
+- **HashX** & **Hashium** → Secure hashing & encryption libraries  
 
-### 🌐 Connect with Us
+### 🔹 Toolkits
+- **ProX Toolkit** → Developer utilities & helpers  
+- **HXDB** → Lightweight file-based database  
 
-<p align="center">
-  <a href="https://www.youtube.com/@ProgrammerKR.123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,nodejs,react,mysql,mongodb,git,github,vscode,linux,aws,docker,kubernetes" alt="Tech Stack" />
-</p>
+### 🔹 Programming Language
+- **ProX** → Python-inspired programming language  
+  - Includes **PRM (ProX Repository Manager)**  
 
 ---
 
-### 📊 GitHub Activity
+<h2 align="center">🌟 Vision</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProXentix&theme=default" alt="Profile Details" />
+  At <b>ProXentix</b>, our mission is to make <b>powerful developer tools accessible for everyone</b>, 
+  from beginners to professionals.  
+  We focus on <b>open-source, innovation, and simplicity</b> to empower the global dev community.
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">🤝 Contributing</h2>
+
+<p align="center">We love contributions! 💙</p>
+
+- Fork a repository  
+- Create a feature branch  
+- Open a Pull Request  
+
+📌 Check each project’s **CONTRIBUTING.md** for guidelines.  
+
+---
+
+<h2 align="center">📢 Connect with Us</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProXentix&show_icons=true&locale=en" alt="GitHub Stats" />
+  🔗 <a href="https://github.com/ProXentix"><b>GitHub: ProXentix</b></a> <br/>
+  💬 Discord: <i>Coming Soon</i> <br/>
+  🌍 Website: <i>Coming Soon</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProXentix" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProXentix&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<h3 align="center">💡 “Build for developers, by developers — with ProXentix.”</h3>
